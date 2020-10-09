@@ -7,7 +7,7 @@ Studying software engineering at [RSATU](https://rsatu.ru).
 
 ### Contacts
 
-If you would like to reach me, here's my contacts:
+If you would like to reach me, here are my contacts:
 
 VK:
 https://vk.com/id167290079
