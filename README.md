@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Ilya Noskov and my pronouns are he/his.
+My name is Ilya Noskov and my pronouns are he/him.
 
 I’m currently working on my bachelor diploma, which covers research of spreading of measles by means of probabilistic programming. Currently using [Pyro](https://pyro.ai/) and [Tensorflow probability](https://www.tensorflow.org/probability).
 
