@@ -13,7 +13,7 @@ VK:
 https://vk.com/id167290079
 
 TG:
-@lonelypython
+@IlyaNoskov_A
 
 Also my [spotify profile](https://open.spotify.com/user/sc5knfpzkdio7s2q9wkon3wq0?si=xpQd8djvSm6KZafmTi39ug)
 
